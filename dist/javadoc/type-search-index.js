@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Elementos","l":"Casillas"},{"p":"Formularios","l":"dialogAyuda"},{"p":"Formularios","l":"FormPrincipal"},{"p":"Elementos","l":"MecanicasJuego"},{"p":"proyectojuegopoo","l":"ProyectoJuegoPOO"},{"p":"Elementos","l":"SelectorArchivoPalabras"}];updateSearchResults();
